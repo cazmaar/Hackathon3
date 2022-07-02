@@ -5,7 +5,7 @@ import {
 import {Nav} from './components/bottom-nav'
 import {Home} from './screens/home'
 
-
+ff
 function App() {
   return (
     <ChakraProvider theme={theme}>
